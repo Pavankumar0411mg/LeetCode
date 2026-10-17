@@ -1,5 +1,5 @@
 
-# LeetCode Solutions 🚀
+# LeetCode Solutions 
 
 Welcome to my LeetCode Solutions Repository! 👨‍💻
 
